@@ -1,0 +1,16 @@
+{
+    "name": "dommy/core-library",
+    "description": "An OO library to easily generate HTML pages",
+    "require-dev": {
+        "phpunit/phpunit": "3.7.8"
+    },
+    "authors": [
+        {
+            "name": "Wouter J",
+            "email": "wouter@wouterj.nl"
+        }
+    ],
+    "require": {
+
+    }
+}
